@@ -21,6 +21,10 @@ for power out wires.
 
 <img src="http://adgjm.eu/img/github/case-1024.jpg" width="400px"/>
 
+And once wired:
+
+<img src="http://adgjm.eu/img/github/IMG_20150426_133425-1024.jpg" width="400px"/>
+
 
 # License
 
