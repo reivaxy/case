@@ -9,12 +9,21 @@ which would remain stuck. And often the lights would not go off, which can resul
 
 A static relay is totally electronic, there is no mobile contacts, no spark.
 
-Here it is (this one is not yet wired) in the resulting box, with the hole for the low tension alimentation, one hole for power-in wire, and 2 holes 
+Here is the design:
+
+<img src="http://adgjm.eu/img/github/case.png" width="400px"/>
+
+
+Here is the printed object with the relay (this one is not yet wired), with the hole for the low tension alimentation, one hole for power-in wire, and 2 holes 
 for power out wires.
 
 2,9mm scews are a perfect fit for the cover
 
 <img src="http://adgjm.eu/img/github/case-1024.jpg" width="400px"/>
+
+And once wired:
+
+<img src="http://adgjm.eu/img/github/IMG_20150426_133425-1024.jpg" width="400px"/>
 
 
 # License
